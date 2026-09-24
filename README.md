@@ -1,15 +1,13 @@
 # To-Do List Web App
 
-A sleek, responsive, and feature-rich **To-Do List Web Application** built with vanilla JavaScript, HTML5, and CSS3[cite: 1, 2, 3]. This app helps you manage your daily tasks efficiently with real-time progress tracking and persistent local storage[cite: 1, 2].
+A sleek, responsive, and feature-rich **To-Do List Web Application** built with vanilla JavaScript, HTML5, and CSS3. This app helps you manage your daily tasks efficiently with real-time progress tracking and persistent local storage.
 
 ## 🔗 GitHub Repository
-You can find the project repository here: [[somnathlive/codeOrbit_To-Do List Web App](https://github.com/somnathlive/codeOrbit_To-Do List Web App)](https://github.com/somnathlive/CodeOrbit_To-Do-List-Web-App)
-
+You can find the project repository here: https://github.com/somnathlive/codeOrbit_To-Do List Web App
 ---
 
 ## Screenshots
 
-*(Add a screenshot of your running application here to showcase your UI!)*
 
 | Main Interface | Task Progress View |
 | :---: | :---: |
@@ -18,19 +16,19 @@ You can find the project repository here: [[somnathlive/codeOrbit_To-Do List Web
 ---
 
 ##  Features
-- **Add & Edit Tasks**: Easily add new tasks or edit existing ones on the fly[cite: 1].
-- **Task Completion Toggle**: Mark tasks as complete with a visual strikethrough effect and status update[cite: 1, 2].
-- **Delete Tasks**: Remove items you no longer need from your list[cite: 1].
-- **Dynamic Progress Bar**: Visual feedback displaying task completion percentage and a numerical counter (`Completed / Total`)[cite: 1, 2].
-- **Local Storage Integration**: Your tasks are saved locally in the browser so you never lose your data upon refresh[cite: 1].
-- **Modern UI/UX**: Designed with a clean glassmorphism aesthetic, custom scrollbars, and responsive elements[cite: 2].
+- **Add & Edit Tasks**: Easily add new tasks or edit existing ones on the fly.
+- **Task Completion Toggle**: Mark tasks as complete with a visual strikethrough effect and status update.
+- **Delete Tasks**: Remove items you no longer need from your list.
+- **Dynamic Progress Bar**: Visual feedback displaying task completion percentage and a numerical counter (`Completed / Total`).
+- **Local Storage Integration**: Your tasks are saved locally in the browser so you never lose your data upon refresh.
+- **Modern UI/UX**: Designed with a clean glassmorphism aesthetic, custom scrollbars, and responsive elements.
 
 ---
 
 ##  Built With
 - **HTML5** - Structuring the application content and layout.
-- **CSS3**[cite: 2] - Styling with custom variables, flexbox, and modern visual effects.
-- **JavaScript (ES6+)**[cite: 1] - Managing application state, DOM manipulation, and local storage.
+- **CSS3** - Styling with custom variables, flexbox, and modern visual effects.
+- **JavaScript (ES6+)** - Managing application state, DOM manipulation, and local storage.
 
 ---
 
@@ -40,7 +38,7 @@ To run this project locally, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [[https://github.com/somnathlive/codeOrbit_To-Do](https://github.com/somnathlive/codeOrbit_To-Do) List Web App.git](https://github.com/somnathlive/CodeOrbit_To-Do-List-Web-App)
+   git clone https://github.com/somnathlive/CodeOrbit_To-Do-List-Web-App
 
-2. **Extract the zip file **
+2. **Extract the zip file:**
    open todoApp.html file in and show result
