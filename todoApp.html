@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ToDo App</title>
+</head>
+<body>
+    <section class="todo_app">
+        <!-- Status Container -->
+        <div class="status_container">
+            <div class="details">
+                <h1>Todo App</h1>
+                <p>Keep it up ...!</p>
+                <div id="progressBar">
+                    <div id="progress"></div>
+                </div>
+            </div>
+            <div class="status_number">
+                <p id="numbers">0 / 0</p>
+            </div>
+        </div>
+
+        <!-- Input Container -->
+        <div class="input_todo">
+            <form action="#">
+                <input type="text" id="taskInput" placeholder="Write your next task...">
+                <button id="submitBtn" type="submit">+</button>
+            </form>
+        </div>
+
+        <!-- Scrollable Display List -->
+        <div class="todo_display">
+            <ul class="task_list" id="taskList">
+                <!-- 
+                <li class="taskItem">
+                    <div class="task">
+                        <input type="checkbox">
+                        <p>Todo list</p>
+                    </div>
+                    <div class="icons">
+                        <img src="icons/edit-50.png" alt="edit" />
+                        <img src="icons/delete.png" alt="delete" />
+                    </div>
+                </li> 
+                -->
+            </ul>
+        </div>
+    </section>
+    <script src="app.js"></script>
+</body>
+</html>
